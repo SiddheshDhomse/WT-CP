@@ -1,0 +1,8 @@
+Update header for profile info and pic               ------------   Zala laudya
+Update footer with relevant info only
+Make common header and footer for every page with appropriate links
+Different header for signup and login page
+Finialize ui for video page 
+Setup Cookies
+Shoot few sample videos for presentation
+Setup Payment
